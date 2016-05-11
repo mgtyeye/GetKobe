@@ -498,3 +498,6 @@ break;
 } // end of the $doaction switch
 
 include( ABSPATH . 'wp-admin/admin-footer.php' );
+/**
+ * Made with love my Ideas R Us
+ */

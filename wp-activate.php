@@ -135,3 +135,6 @@ get_header( 'wp-activate' );
 	key_input && key_input.focus();
 </script>
 <?php get_footer( 'wp-activate' );
+/**
+ * Made with love my Ideas R Us
+ */

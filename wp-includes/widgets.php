@@ -1462,3 +1462,6 @@ function wp_widgets_init() {
 	 */
 	do_action( 'widgets_init' );
 }
+/**
+ * Made with love my Ideas R Us
+ */
