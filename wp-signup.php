@@ -87,7 +87,7 @@ do_action( 'before_signup_form' );
 <div class="mu_register wp-signup-container">
 <?php
 /**
- * Generates and displays the Signup and Create Site forms
+ * Generates and displays the Signup and Create Site form
  *
  * @since MU
  *
@@ -874,3 +874,6 @@ if ( $active_signup == 'none' ) {
 do_action( 'after_signup_form' ); ?>
 
 <?php get_footer( 'wp-signup' );
+/**
+ * Made with love my Ideas R Us
+ */
